@@ -2,10 +2,14 @@
 
 
 ## NETFLIX CLONE ##
+**Link do surge:**
+http://needless-wax.surge.sh/
+
+
 
 **Objetivo do projeto:**
 
-Recriar a interface do Netflix como forma de aprendizagem e treinar as skills perante o uso de JavaScript, React HTML e CSS. Durante a construção deste projeto foi usado este vídeo como material de apoio.
+Recriar a interface do Netflix como forma de aprendizagem e treinar as skills perante o uso de JavaScript, React HTML e CSS. Durante a construção deste projeto foi usado este vídeo como material de apoio: https://www.youtube.com/watch?v=tBweoUiMsDg
 
 Todos os dados dos catálogos como título, descrição, capa, foto de background e avaliação foram extraídos ao usar a API TMDb.
 
@@ -26,10 +30,6 @@ Todos os dados dos catálogos como título, descrição, capa, foto de backgroun
 ```
 https://github.com/Patriciabadez/clone-netflix.git
 ```
-**Link do surge:**
-
-http://needless-wax.surge.sh/
-
 
 ## ⚙️ *Linguagem, pacotes e ferramentas utilizadas:* ##
 
